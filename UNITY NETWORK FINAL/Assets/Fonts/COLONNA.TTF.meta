@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d97d399f67d4b214e89a93331bdc25d7
+timeCreated: 1512870805
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Colonna MT
+  fontNames:
+  - Colonna MT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

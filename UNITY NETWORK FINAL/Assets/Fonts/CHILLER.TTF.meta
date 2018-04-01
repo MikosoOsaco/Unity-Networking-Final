@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a40e73c4b93923c45a17b21cc6a7a372
+timeCreated: 1512870804
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chiller
+  fontNames:
+  - Chiller
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
